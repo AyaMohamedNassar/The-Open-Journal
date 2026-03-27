@@ -3,7 +3,7 @@
 The Open Journal is a responsive HTML and CSS template designed to facilitate the creation and management of digital journals. This project aims to provide a clean and modern interface that is user-friendly and adaptable across various devices, ensuring an excellent user experience on smartphones, tablets, and desktop computers.
 
 ## Demo / Preview
-Live Demo:  [https://ayamohamednassar.github.io/Kasper/ ](https://ayamohamednassar.github.io/The-Open-Journal/)
+Live Demo:  [https://ayamohamednassar.github.io/The-Open-Journal/ ](https://ayamohamednassar.github.io/The-Open-Journal/)
 
 To preview the template locally:
 - Open `index.html` in your browser, or
